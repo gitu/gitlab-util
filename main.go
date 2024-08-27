@@ -29,7 +29,7 @@ func main() {
 
 	app := cli.NewApp()
 
-	app.Name = "family-battle"
+	app.Name = "gitlab-util"
 	app.Usage = "server to fight with your family in a more or less healthy way"
 	app.Version = version
 
