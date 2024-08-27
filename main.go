@@ -30,7 +30,7 @@ func main() {
 	app := cli.NewApp()
 
 	app.Name = "gitlab-util"
-	app.Usage = "server to fight with your family in a more or less healthy way"
+	app.Usage = "little utility for gitlab"
 	app.Version = version
 
 	app.Flags = []cli.Flag{
